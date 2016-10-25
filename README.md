@@ -1,0 +1,2 @@
+# CASPOTT
+Critical Artifact Spotter
